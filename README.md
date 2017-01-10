@@ -12,8 +12,8 @@ To getting started with the Package first get you a copy of the Package your loc
 
 Things you need to install the software and how to install them
 
-Xcode 8.2
-Swift 3
+- Xcode 8.2
+- Swift 3
 
 ### Installing
 
@@ -22,7 +22,19 @@ Just drag-drop Package to your project folder (i.e Package folder) in your IOS /
 ## Built With
 
 * [Swift](https://developer.apple.com/swift/) - Programming language used
-* [Xcode](https://developer.apple.com/xcode/) - IDE
+* [Xcode](https://developer.apple.com/xcode/) - IDE used
+* 
+
+## Usage
+
+### Components
+coming soon
+
+### Extensions
+coming soon
+
+### Protocols
+coming soon
 
 ## Contributing
 
